@@ -20,4 +20,4 @@ console.log('second number:',second_number);
 // first_number = first_number ^ second_number;
 
 // console.log('first number:', first_number);
-// console.log('second number:',second_number);
+// console.log('second number:', second_number);
